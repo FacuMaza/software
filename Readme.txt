@@ -1,3 +1,3 @@
-Hola soy el README de Gerardo
+Hola soy el README de Facundo
 
-hola soy el aporte de facundo
+hola soy el aporte de Gerardo
